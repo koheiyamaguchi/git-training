@@ -1,2 +1,2 @@
 # git-training
-my name is kohei
+my name is kohei hoge
